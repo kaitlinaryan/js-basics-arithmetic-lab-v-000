@@ -8,7 +8,10 @@ You should NOT try to redefine any of the above variables.
 
 // Write your code below this line!
 
-var newID = oldID + 1000000000
+const newID = oldID + 1000000000
 
 const ageIsValid (currentAge)
-if currentAge = number.isInteger
+if currentAge = Number.isInteger
+true
+else
+false
