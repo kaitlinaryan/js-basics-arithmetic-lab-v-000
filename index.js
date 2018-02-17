@@ -15,3 +15,8 @@ if currentAge = Number.isInteger
 true
 else
 false
+
+
+const randomNumber = Math.random(1, 20)
+const randomInteger = randomNumber.Math.floor
+const randomUserID = randomInteger + 1000000000
